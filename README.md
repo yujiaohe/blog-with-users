@@ -2,9 +2,7 @@
 
 This repository contains a web blog application developed using Flask, a Python web framework. The application provides user authentication, allowing users to register, log in, and log out. It also includes an administration feature that allows administrators to create and delete blog posts.
 
-<img src="images/blog-1.png" alt="home" style="width:230px; height:160px">
-<img src="images/blog-2.png" alt="post blog" style="width:230px; height:130px">
-<img src="images/blog-3.png" alt="comments" style="width:230px; height:160px">
+<img src="images/blog-1.png" alt="home" style="width:230px; height:160px; border: solid"> <img src="images/blog-2.png" alt="post blog" style="width:230px; height:130px; border: solid"> <img src="images/blog-3.png" alt="comments" style="width:230px; height:160px; border: solid">
 
 ## Features
 
